@@ -1,16 +1,11 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Membuat project baru flutter  baru
+![Langkah1](prakadd1.jpg)
+![Langkah2](prak1.jpg)
+![Langkah3](prak2.jpg)
+![Langkah4](prak3.jpg)
+![Langkah5](prak4.jpg)
+![Langkah6](prak5.jpg)
+![Langkah7](prak6.jpg)
+![Langkah8](prak7.jpg)
+![Langkah9](prak8.jpg)
+![Langkah10](prak9.jpg)
