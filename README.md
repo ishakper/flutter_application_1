@@ -3,9 +3,11 @@ Membuat project baru flutter  baru
 ![Langkah2](prak1.jpg)
 ![Langkah3](prak2.jpg)
 ![Langkah4](prak3.jpg)
-![Langkah5](prak4.jpg)
-![Langkah6](prak5.jpg)
-![Langkah7](prak6.jpg)
-![Langkah8](prak7.jpg)
-![Langkah9](prak8.jpg)
-![Langkah10](prak9.jpg)
+
+menerapkapkan material widget
+![Cupertino Button](prak4.jpg)
+![FAB(prak5.jpg)
+![Scafold widget](prak6.jpg)
+![dialog widget](prak7.jpg)
+![Input and selection widget](prak8.jpg)
+![Date and time pickers](prak9.jpg)
